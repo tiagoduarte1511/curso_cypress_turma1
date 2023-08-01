@@ -1,0 +1,20 @@
+{
+    "name": "curso_turma_1",
+    "version": "1.0.0",
+    "description": "curso_turma_1",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/tiagoduarte1511/curso_cypress_turma1.git"
+    },
+    "author": "Tiago Garcia",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/tiagoduarte1511/curso_cypress_turma1/issues"
+    },
+    "homepage": "https://github.com/tiagoduarte1511/curso_cypress_turma1#readme"
+  }
+  
