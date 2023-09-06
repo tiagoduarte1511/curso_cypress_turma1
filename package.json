@@ -18,5 +18,8 @@
     "homepage": "https://github.com/tiagoduarte1511/curso_cypress_turma1#readme",
     "devDependencies": {
         "cypress": "^12.17.3"
+    },
+    "dependencies": {
+        "faker-br": "^0.4.1"
     }
 }
